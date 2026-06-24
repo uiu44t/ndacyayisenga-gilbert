@@ -1,0 +1,6 @@
+{
+  "name": "Bruce Rii Shop",
+  "description": "A premium boutique storefront showcasing an exclusive collection of high-performance motorcycles, luxury cars, private airplanes, and state-of-the-art electronic devices.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
